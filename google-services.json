@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167992503324",
+    "project_id": "apppsicologia-f6974",
+    "storage_bucket": "apppsicologia-f6974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167992503324:android:0c3b2a2c4604e5b01443d9",
+        "android_client_info": {
+          "package_name": "com.velostertecnologia.apppsicologia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167992503324-h9sin2e8oc44inrcqu1rt2u68piqc4cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWBBxOzbFVDufsr3J46-S-kQw94gjiDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167992503324-h9sin2e8oc44inrcqu1rt2u68piqc4cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
